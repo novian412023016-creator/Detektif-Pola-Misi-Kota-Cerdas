@@ -1,2 +1,2 @@
 # Detektif-Pola-Misi-Kota-Cerdas
-Genre: Mencari Pola PC Engine: Greenfoot Target Player: anak SD kelas 1-3
+Genre: Mencari Pola gambar yang sesuai PC Engine: Greenfoot Target Player: anak SD kelas 1-3
