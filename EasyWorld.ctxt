@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EasyWorld
+comment1.params=
+comment1.target=EasyWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ showPuzzle()
+comment4.params=
+comment4.target=void\ correctAnswer()
+comment5.params=
+comment5.target=void\ wrongAnswer()
+numComments=6
